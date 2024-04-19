@@ -1,6 +1,6 @@
 # Problema-do-quebra-cabeca-de-8-pecas
 
-# Busca-A-Estrela
+### Busca-A-Estrela
 
 Aluno: Luis Felipe Pessoa Lopes
 
